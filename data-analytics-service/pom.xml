@@ -69,6 +69,15 @@
             <scope>runtime</scope>
         </dependency>
 
+        <!-- Spring Kafka -->
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+        </dependency>
+
+
+
+
         <!-- UUID -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
